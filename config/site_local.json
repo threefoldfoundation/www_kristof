@@ -7,7 +7,7 @@
     "reset": false,
     "cat": 2,
     "domains": [
-        "www.local.io"
+        "kristof.threefold.io"
     ],
     "descr": "is our entry point for everyone, redirect to the detailed websites underneith.",
     "groups": [],
